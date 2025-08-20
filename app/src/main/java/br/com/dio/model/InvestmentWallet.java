@@ -30,4 +30,12 @@ public class InvestmentWallet extends Wallet    {
             .toList();
         this.money.addAll(newMoney);
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + "InvestmentWallet {" +
+            "investment=" + investment +
+            ", account=" + accountWallet +
+            "}";
+    }
 }
