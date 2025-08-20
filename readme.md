@@ -28,7 +28,6 @@ A aplicação simula um **sistema bancário básico**, oferecendo funcionalidade
 - Criar uma aplicação modular e escalável
 - Facilitar a compreensão e manutenção do código
 - Proporcionar uma base sólida para futuros projetos Java
-- Promover boas práticas de desenvolvimento, como testes unitários e documentação
 
 ## 🛠️ Tecnologias Utilizadas
 
